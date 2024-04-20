@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "//nomalist.github.io/blog/static/css/main.f855e6bc.css",
-    "main.js": "//nomalist.github.io/blog/static/js/main.fabc1367.js",
+    "main.js": "//nomalist.github.io/blog/static/js/main.d40de3c8.js",
     "static/js/453.ede2c593.chunk.js": "//nomalist.github.io/blog/static/js/453.ede2c593.chunk.js",
     "index.html": "//nomalist.github.io/blog/index.html",
     "main.f855e6bc.css.map": "//nomalist.github.io/blog/static/css/main.f855e6bc.css.map",
-    "main.fabc1367.js.map": "//nomalist.github.io/blog/static/js/main.fabc1367.js.map",
+    "main.d40de3c8.js.map": "//nomalist.github.io/blog/static/js/main.d40de3c8.js.map",
     "453.ede2c593.chunk.js.map": "//nomalist.github.io/blog/static/js/453.ede2c593.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fabc1367.js"
+    "static/js/main.d40de3c8.js"
   ]
 }
